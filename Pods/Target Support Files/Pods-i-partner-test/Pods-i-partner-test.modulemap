@@ -1,0 +1,6 @@
+framework module Pods_i_partner_test {
+  umbrella header "Pods-i-partner-test-umbrella.h"
+
+  export *
+  module * { export * }
+}
