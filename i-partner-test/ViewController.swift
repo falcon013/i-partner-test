@@ -9,6 +9,7 @@
 import UIKit
 import Alamofire
 import SwiftyJSON
+import CoreML
 
 class ViewController: UIViewController {
     @IBOutlet weak var result: UILabel!
